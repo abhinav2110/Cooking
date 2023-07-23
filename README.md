@@ -1,4 +1,4 @@
-<h5>ABOUT</h5>
+<h1>ABOUT</h1>
 
 In previous people use to display the cooking items in the newspapers ,books ,magazines etc. If they want to know about any new items then they used to search books ,articles ,newspaper and ask others.As these will be manually and people use to face difficultly in sharing their information.The sharing of the cookie items makes the problems for common people ,business ,hotels  also.
 
@@ -12,7 +12,7 @@ We are creating a application which will be hosted in web. so everyone can acces
 So a user or visitor can visit the website check for the recipes and search for the recipes and even he can add recipes to the websites also.
 
 
-<h4>REQUIREMENTS</h4>
+<h2>REQUIREMENTS</h2>
 Google Colab
 
 Operating System: Windows 8 or 10
