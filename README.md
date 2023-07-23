@@ -21,4 +21,3 @@ These website don’t required any username and password. so every one can see t
 All kind of items are displayed on the websites. so our website is open for any one with irrespective of country and region.
 
 
-![image](https://github.com/abhinav2110/Cooking/assets/113549291/63fa4c6a-b4eb-48af-a889-858cf10098df)
